@@ -1,8 +1,6 @@
 <div align="center">
 
 # 💥 Deton8
-[🎮 Play Live Demo](https://deton8.vercel.app)
-
 
 **The classic Chain Reaction board game — reimagined for the web.**
 
